@@ -1,2 +1,0 @@
-# devops
-Devops_Project
